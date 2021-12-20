@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "lab06 - Notes (Lukyanov)"

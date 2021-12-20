@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab06 - Notes (Lukyanov)</string>
+    <string name="btn_New">New</string>
+    <string name="btn_Edit">Edit</string>
+    <string name="btn_Delete">Delete</string>
+    <string name="label_Title">Title</string>
+    <string name="label_Content">Content</string>
+    <string name="btn_Save">Save</string>
+    <string name="btn_Cancel">Cancel</string>
+    <string name="btn_Yes">Yes</string>
+    <string name="btn_No">No</string>
+    <string name="label_Confirm">Are you sure?</string>
+</resources>
